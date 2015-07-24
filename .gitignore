@@ -1,0 +1,8 @@
+# .gitignore for Repository phonegap-tutorial
+
+##########
+# Ignore #
+##########
+.DS_Store
+node_modules/*
+
